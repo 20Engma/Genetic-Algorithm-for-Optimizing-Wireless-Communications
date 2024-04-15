@@ -33,4 +33,13 @@ Follow the instructions within the notebook to perform the optimization and visu
 - DEAP library for evolutionary algorithms
 
 
+## future plans
+Improve fitness function:
 
+The fitness function may need to be re-evaluated or modified to better reflect the desired goals of the model.
+Increase genetic diversity:
+
+Use strategies such as higher-ratio random mutation, or diverse selection techniques to prevent premature convergence and improve exploration of the solution space.
+Experiment with algorithm settings:
+
+Adjust mating and mutation probabilities, and change population size and number of generations to see their impact on overall performance.
